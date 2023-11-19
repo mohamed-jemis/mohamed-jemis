@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Gamal
 =====================================================================================================================================
 
-spiring Data Scientist & Machine Learning Enthusiast 🚀 I am a recent graduate with a passion for leveraging data-driven insights to solve complex problems. Skilled in machine learning algorithms, statistical analysis, and programming. Eager to contribute my skills to innovative projects and explore the endless possibilities of data science.
+Aspiring Data Scientist & Machine Learning Enthusiast 🚀 I am a recent graduate with a passion for leveraging data-driven insights to solve complex problems. Skilled in machine learning algorithms, statistical analysis, and programming. Eager to contribute my skills to innovative projects and explore the endless possibilities of data science.
 
 *   🌍  I'm based in Egypt
 *   ✉️  You can contact me at [m.gamal.shehata@gmail.com](mailto:m.gamal.shehata@gmail.com)
